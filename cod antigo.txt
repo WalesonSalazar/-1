@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPROETAM</title>
+    <Link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <H1>
+            <nav>
+                <ul>
+                    <li><a href="iproetam.html">Home</a></li>
+                    <li><a href="Sobre_nos.html">Sobre nós</a></li>
+                    <li><a href="Treinamentos.html">Treinamentos</a></li>
+                    <li><a href="Contatos.html">Contatos</a></li>
+                    <img src="logo.jpeg" alt="">
+                    <input type="Digite aqui">
+                    <Button>login</Button>
+                    <input type="Digite aqui">
+                    <button>Senha</button>
+                </ul>
+            </nav>
+        </H1>
+    </div>       
+    <div>
+        </div>  
+            <input type="button" value="click" onclick="alertar()"> 
+            <a href="Entrar">Entrar</a>
+            <a href="Registrar">Registrar</a>
+        </div>
+    </div>
+        <div>
+            <div b>
+                <a href="IPORENTAM">IPROETAM</a>
+            </div>
+        </div>
+    </div>
+    <header>
+        <h1>
+
+        </h1>
+    </header>
+    <main>
+
+    </main>
+    <footer>
+        <input type="Digite aqui">
+        <Button>login</Button>
+        <a href="https://www.linkedin.com/in/waleson-salazar-15474814b" target="_blank" rel="noopener noreferrer ">
+        <img src="in.jpg" alt="">
+        <p>Linkedin</p>
+        </a>
+    </footer>
+</body>
+</html>

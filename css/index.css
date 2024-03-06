@@ -1,0 +1,23 @@
+ .container {
+    padding: 24px;
+    display: flex;
+    align-items: center;
+    box-sizing: center;
+    background-color: green;
+    color: aliceblue;
+    font-family: none;
+    
+}
+
+input{
+    height: 25px;
+    align-items: center;
+    border-color: aquamarine;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    font-size: 25px;
+    padding: 0px;
+}
