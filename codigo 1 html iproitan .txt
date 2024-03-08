@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <title>IPROITAM</title>
+</head>
+<body>
+    <header class="menu-principal">
+        <main>
+            <div class="header-1">
+                <nav>
+                    <div class="logo">
+                        <img src="./img/logo1.PNG" />
+                    </div>
+                    <div class="redes-sociais">
+                    </div> 
+                    <div class="menu">
+                        <H1>
+                                <ul>
+                                    <div class="telaprincipal">
+                                        <img src="./img/telaiproitam.jpg" alt="">
+                                    </div>
+                                    <li><a href="iproetam.html">Home</a></li>
+                                    <li><a href="Sobre_nos.html">Sobre nós</a></li>
+                                    <li><a href="Treinamentos.html">Treinamentos</a></li>
+                                    <li><a href="Contatos.html">Contatos</a></li>
+                                    <img src="logo.jpeg" alt="">
+                                    <input type="Digite aqui">
+                                    <Button>login</Button>
+                                    <input type="Digite aqui">
+                                    <button>Senha</button>
+                                </ul>
+                        </H1>   
+                    </div>
+                </nav>
+            </div>
+        </main>
+    </header>
+</body>
+</html>
